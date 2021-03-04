@@ -1,0 +1,12 @@
+- Welcome to comuter picker screen
+- Menu pops up
+- Menu has selecable parts that you can lock in
+- menu has different menu's that can pic different parts
+- Once locked in parts, the menu disapears and the parts showe uip on a desk with a case in front of you. 
+- There will be a little helper explaining what to put where. 
+- You drag the parts and the cables to there locations.
+- Once it is complete, you should see a computer screen booting up and saying error if wrong and you did it if right.
+- If wrong it would take you back to the regular screen and tell you what to fix. 
+- If right then you will have a screen saying save or new. 
+- If new is clicked it will bring you bqck to the Menu
+- If you click save it will take a screenshot of the computer and go back to the menu. 
